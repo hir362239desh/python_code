@@ -1,1 +1,1 @@
-# python_code
+# Basic information in python
